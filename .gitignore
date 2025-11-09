@@ -194,4 +194,4 @@ checkpoints/*.pt
 !**/.gitkeep
 
 esp/*
-csi_logs
+csi_logs/*
